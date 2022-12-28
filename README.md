@@ -8,6 +8,6 @@ in the ./ecommerce direction.
 ### To run a database (Sanity)
 Tu run a database run:
 
-```sanity start```
+```npm run dev```
 
 in the ./ecommerce/ecommerce direction.
