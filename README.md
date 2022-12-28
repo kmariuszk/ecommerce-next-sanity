@@ -13,7 +13,7 @@ Tu run a database run:
 in the ./ecommerce/ecommerce direction.
 
 ### Application
-![](./screenshosts/frontPage.png/img.jpg?raw=true)
-![](./screenshosts/footer.png/img.jpg?raw=true)
-![](./screenshosts/addProduct.png/img.jpg?raw=true)
-![](./screenshosts/cart.png/img.jpg?raw=true)
+![Alt text](./screenshosts/frontPage.png?raw=true)
+![Alt text](./screenshosts/footer.png?raw=true)
+![Alt text](./screenshosts/addProduct.png?raw=true)
+![Alt text](./screenshosts/cart.png?raw=true)
