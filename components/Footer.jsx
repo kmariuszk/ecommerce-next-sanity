@@ -1,0 +1,20 @@
+import React from 'react';
+import { AiFillInstagram, AiOutlineTwitter, AiFillFacebook } from 'react-icons/ai';
+
+/**
+ * Footer component; responsible for a display of the footer in the application.
+ */
+function Footer() {
+  return (
+    <div className='footer-container'>
+      <p>2022 The Store™ All rights reserved</p>
+      <p className='icons'>
+        <AiFillInstagram />
+        <AiOutlineTwitter />
+        <AiFillFacebook />
+      </p>
+    </div>
+  )
+}
+
+export default Footer
